@@ -1,0 +1,6 @@
+streamlit
+folium
+matplotlib
+streamlit-folium
+pythermalcomfort
+plotly
